@@ -1,0 +1,10 @@
+C:\Users\Biniyam\source\repos\DataBase Test1\DataBase Test1\bin\Debug\DataBase Test1.exe.config
+C:\Users\Biniyam\source\repos\DataBase Test1\DataBase Test1\bin\Debug\DataBase Test1.exe
+C:\Users\Biniyam\source\repos\DataBase Test1\DataBase Test1\bin\Debug\DataBase Test1.pdb
+C:\Users\Biniyam\source\repos\DataBase Test1\DataBase Test1\obj\Debug\DataBase Test1.csprojAssemblyReference.cache
+C:\Users\Biniyam\source\repos\DataBase Test1\DataBase Test1\obj\Debug\DataBase_Test1.Form1.resources
+C:\Users\Biniyam\source\repos\DataBase Test1\DataBase Test1\obj\Debug\DataBase_Test1.Properties.Resources.resources
+C:\Users\Biniyam\source\repos\DataBase Test1\DataBase Test1\obj\Debug\DataBase Test1.csproj.GenerateResource.cache
+C:\Users\Biniyam\source\repos\DataBase Test1\DataBase Test1\obj\Debug\DataBase Test1.csproj.CoreCompileInputs.cache
+C:\Users\Biniyam\source\repos\DataBase Test1\DataBase Test1\obj\Debug\DataBase Test1.exe
+C:\Users\Biniyam\source\repos\DataBase Test1\DataBase Test1\obj\Debug\DataBase Test1.pdb
